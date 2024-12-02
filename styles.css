@@ -13,7 +13,7 @@ body, html {
 .loading-container {  
     text-align: center;  
     color: white; /* Set text color to white */  
-    background: rgba(0, 0, 0, 0.7); /* Dark semi-transparent background for contrast */  
+    background: #020623; /* Dark semi-transparent background for contrast */  
     padding: 30px; /* Add padding for a nicer look */  
     border-radius: 10px; /* Slightly rounded corners */  
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */  
